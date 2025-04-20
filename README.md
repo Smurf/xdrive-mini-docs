@@ -1,7 +1,7 @@
 # Makerbase MKS XDrive (Odrive 3.6) Mini Quirks and Features
 
-![xdrive mini pinout](img/X-Drive-mini-pinout.png)
-![xdrive mini drawing](img/X-Drive-mini-drawing.png)
+![xdrive mini pinout](img/XDrive-mini-pinout.png)
+![xdrive mini drawing](img/XDrive-mini-drawing.png)
 
 The Makerbase XDrive Mini is a fantastic piece of kit but as with many knockoff boards it has its own quirks and features.
 
